@@ -46,6 +46,8 @@ Terraform es una herramienta de infraestructura como código (IaC) que permite a
 
 5. Configura una instancia EC2 y una RDS, y luego establecer una conexión entre la instancia RDS y la instancia EC2 mediante Terraform [enlace](./lab-005/README.md)
 
+> Recuerda sumar el diseño de la arquitectura
+
 🔥🔥🔥🔥
 
 <img width="80%" src="https://roxsross-linktree.s3.amazonaws.com/295-full-website-banner-transparent-white.png"> 
