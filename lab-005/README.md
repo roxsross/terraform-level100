@@ -47,8 +47,7 @@ En este lab, estarás configurando una instancia EC2 y una instancia RDS, y lueg
     INSERT INTO subjects(subject_name, teacher) VALUES ('Arts', 'Suzan Carpenter');
     select * from subjects;
     exit;
-```
-
+``
 9. **Validación del Laboratorio:**
     - Realiza las comprobaciones necesarias para asegurarte de que el entorno del laboratorio esté configurado y funcione según lo esperado.
 
