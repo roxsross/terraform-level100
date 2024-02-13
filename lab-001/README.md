@@ -26,23 +26,23 @@ Instala Terraform en tu máquina local siguiendo la [guía oficial de Hashicorp]
 1. **Codigo Sitio Web :**
     - En la carpeta website se encuentra el código del sitio estatico
     ```
-    .
-├── assets
-│   ├── favicon.ico
-│   └── img
-│       ├── avataaars.svg
-│       └── portfolio
-│           ├── cabin.png
-│           ├── cake.png
-│           ├── circus.png
-│           ├── game.png
-│           ├── safe.png
-│           └── submarine.png
-├── css
-│   └── styles.css
-├── index.html
-└── js
-    └── scripts.js
+        .
+    ├── assets
+    │   ├── favicon.ico
+    │   └── img
+    │       ├── avataaars.svg
+    │       └── portfolio
+    │           ├── cabin.png
+    │           ├── cake.png
+    │           ├── circus.png
+    │           ├── game.png
+    │           ├── safe.png
+    │           └── submarine.png
+    ├── css
+    │   └── styles.css
+    ├── index.html
+    └── js
+        └── scripts.js
     ```
 
 2. **Crear un archivo de variables:**
